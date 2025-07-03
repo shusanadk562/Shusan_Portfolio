@@ -1,8 +1,9 @@
 {
-  "name": "prabsh",
+  "name": "shusan",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://shusanadk562.github.io/Shusan_Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
